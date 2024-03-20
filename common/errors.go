@@ -2,6 +2,8 @@ package common
 
 import (
 	"errors"
+
+	"github.com/Dharitri-org/drtg-core/core"
 )
 
 // ErrNilPersister is raised when a nil persister is provided
@@ -83,4 +85,4 @@ var ErrInvalidDefaultSpan = errors.New("invalid default span")
 var ErrInvalidCacheExpiry = errors.New("invalid cache expiry")
 
 // ErrDBIsClosed is raised when the DB is closed
-var ErrDBIsClosed = errors.New("DB is closed")
+var ErrDBIsClosed = core.ErrDBIsClosed

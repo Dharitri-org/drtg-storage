@@ -1,2 +1,2 @@
-# drtg--storage
-drtg- components for storage and caching
+# drtg-storage
+drtg-dharitri components for storage and caching

@@ -1,9 +1,9 @@
 github.com/Dharitri-org/concurrent-map v0.0.1 h1:QfhZ6u+dbmnN38rni25oeyZ2kCLGyjP57of+O8UwzfU=
 github.com/Dharitri-org/concurrent-map v0.0.1/go.mod h1:HUXm2BTKIOTBO8uVzn0GDU6pFad1nACw0lixPO9cdP0=
-github.com/Dharitri-org/drtg-core v0.0.4 h1:YuI8oXHCS47G0YoAUmC6F4DUiFLGkMBarl8Bh4j6C0I=
-github.com/Dharitri-org/drtg-core v0.0.4/go.mod h1:Ho0OzSrP7uaTMHSajcW+xTBHjLWcE6eB2NmW+AeSpV0=
-github.com/Dharitri-org/drtg-logger v0.0.5 h1:sJ3/4kF05S1uA9TldXphWqd+S26eZajlEmtsoSQF/9k=
-github.com/Dharitri-org/drtg-logger v0.0.5/go.mod h1:zITWsol+hlcq0JzcUE9TCcYnaIANrIswIOyoDX0H6So=
+github.com/Dharitri-org/drtg-core v0.1.0 h1:Wn311G1rRpGP3ecFwT9wfOPFZnQMhFwB2Fk+dtGBQxU=
+github.com/Dharitri-org/drtg-core v0.1.0/go.mod h1:9Db4lPAEqY6cn2bzLF9cynojYNhaOrVKgeAY3GA0pdU=
+github.com/Dharitri-org/drtg-logger v0.0.6 h1:WwjhSjDDnKd1eZZiQyDjqhfpu/zTJbJ9I+jNHbyPvEY=
+github.com/Dharitri-org/drtg-logger v0.0.6/go.mod h1:6FQNxKifjwYlnSjjC0t140ZArOdGCbP9iVpbabHBE94=
 github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c=
 github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/denisbrodbeck/machineid v1.0.1 h1:geKr9qtkB876mXguW2X6TU4ZynleN6ezuMSRhl4D7AQ=

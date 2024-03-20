@@ -4,8 +4,8 @@ go 1.20
 
 require (
 	github.com/Dharitri-org/concurrent-map v0.0.1
-	github.com/Dharitri-org/drtg-core v0.0.4
-	github.com/Dharitri-org/drtg-logger v0.0.5
+	github.com/Dharitri-org/drtg-core v0.1.0
+	github.com/Dharitri-org/drtg-logger v0.0.6
 	github.com/hashicorp/golang-lru v1.0.2
 	github.com/stretchr/testify v1.9.0
 	github.com/syndtr/goleveldb v1.0.0
